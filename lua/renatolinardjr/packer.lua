@@ -101,5 +101,6 @@ use {
   use("github/copilot.vim")
   use("eandrju/cellular-automaton.nvim")
   use("laytan/cloak.nvim")
+  use('ThePrimeagen/vim-be-good')
 end)
 
