@@ -2,7 +2,7 @@
 
 ![Nvim_Custom](https://github.com/RenatoLinard/wallpaper/blob/main/screen_Nvim.png)
 
-Neste guia, mostraremos como personalizar o Neovim em um sistema Linux, utilizando o popular tema Rose Pine. Siga os passos abaixo para realizar a customização:
+Neste guia, mostrarei como personalizar o Neovim, utilizando o popular tema Rose Pine. Siga os passos abaixo para realizar a customização:
 
 **Passo 1:** Instale o gerenciador de pacotes Packer diretamente do GitHub.
 
