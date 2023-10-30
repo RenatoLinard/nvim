@@ -9,7 +9,7 @@ Neste guia, mostraremos como personalizar o Neovim em um sistema Linux, utilizan
 **Passo 2:** Clone o repositório Neovim de Renato Linard do GitHub para a pasta pessoal em `~/.config/`.
 
 ```bash
-git clone https://github.com/renatolinard/nvim ~/.config/nvim
+git clone https://github.com/RenatoLinard/nvim.git ~/.config/nvim
 ```
 
 **Passo 3:** Acesse o diretório Neovim.
