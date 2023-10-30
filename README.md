@@ -1,20 +1,35 @@
-# nvim
-minhas configurações pessoais
+Claro, aqui está o mesmo texto em formato Markdown com uma escrita mais profissional:
 
-Install Nvim configuration 
+# Personalização do Neovim com o Tema Rose Pine
 
-1 - Install packer from github
+Neste guia, mostraremos como personalizar o Neovim em um sistema Linux, utilizando o popular tema Rose Pine. Siga os passos abaixo para realizar a customização:
 
-2 - clone nvim from guthub renatolinard to ~/.config/
+**Passo 1:** Instale o gerenciador de pacotes Packer diretamente do GitHub.
 
-3- go to ~/.config/nvim
+**Passo 2:** Clone o repositório Neovim de Renato Linard do GitHub para a pasta pessoal em `~/.config/`.
 
-4- nvim .
+```bash
+git clone https://github.com/renatolinard/nvim ~/.config/nvim
+```
 
-5- lua/renatolinard/packer.lua
+**Passo 3:** Acesse o diretório Neovim.
 
-6- :so
+```bash
+cd ~/.config/nvim
+```
 
-7- :ParckerSync
+**Passo 4:** Abra o Neovim.
 
-8-  close and open again
+```bash
+nvim .
+```
+
+**Passo 5:** Navegue até o diretório `lua/renatolinard/` e localize o arquivo `packer.lua`.
+
+**Passo 6:** Execute o comando `:source` no Neovim.
+
+**Passo 7:** Em seguida, execute o comando `:PackerSync` para sincronizar os plugins.
+
+**Passo 8:** Finalmente, feche o Neovim e abra-o novamente para aplicar as configurações personalizadas.
+
+Com estes passos, você estará pronto para usar o Neovim com a customização do tema Rose Pine.
