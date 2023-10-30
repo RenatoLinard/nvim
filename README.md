@@ -1,6 +1,6 @@
-Claro, aqui está o mesmo texto em formato Markdown com uma escrita mais profissional:
-
 # Personalização do Neovim com o Tema Rose Pine
+
+![Nvim_Custom](https://github.com/RenatoLinard/wallpaper/blob/main/screen_Nvim.png)
 
 Neste guia, mostraremos como personalizar o Neovim em um sistema Linux, utilizando o popular tema Rose Pine. Siga os passos abaixo para realizar a customização:
 
@@ -33,5 +33,3 @@ nvim .
 **Passo 8:** Finalmente, feche o Neovim e abra-o novamente para aplicar as configurações personalizadas.
 
 Com estes passos, você estará pronto para usar o Neovim com a customização do tema Rose Pine.
-
-![Nvim_Custom](https://github.com/RenatoLinard/wallpaper/blob/main/screen_Nvim.png)
