@@ -33,3 +33,5 @@ nvim .
 **Passo 8:** Finalmente, feche o Neovim e abra-o novamente para aplicar as configurações personalizadas.
 
 Com estes passos, você estará pronto para usar o Neovim com a customização do tema Rose Pine.
+
+![Nvim_Custom](https://github.com/RenatoLinard/wallpaper/blob/main/screen_Nvim.png)
