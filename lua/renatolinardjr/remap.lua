@@ -1,4 +1,5 @@
 vim.g.mapleader = " "
+-- define a tecla leader
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 
 -- Move highlight text wtih J and K
